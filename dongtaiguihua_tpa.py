@@ -3,9 +3,9 @@
 @Autor: xiaosi
 @Date: 2019-11-24 14:47:48
 @LastEditors: xiaosi
-@LastEditTime: 2019-11-24 16:16:10
+@LastEditTime: 2019-11-29 19:20:31
 '''
-# dong
+
 import copy
 
 g = [
